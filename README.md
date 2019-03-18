@@ -15,3 +15,7 @@ Scoring Metric: RMSLE
   1. If both predicted and actual values are small: RMSE and RMSLE is same.
   2. If either predicted or the actual value is big: RMSE > RMSLE
   3. If both predicted and actual values are big: RMSE > RMSLE (RMSLE becomes almost negligible)
+
+Jupyter Notebook:
+  - `00_DateNotebook.ipynb`: Provides an overview of the the finding/insights during the project.
+  - `01_DateNotebook.ipynb`: An All-In notebook that contains visualization, analysis, and modeling.
