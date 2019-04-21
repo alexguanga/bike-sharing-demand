@@ -1,4 +1,4 @@
-# Information
+## Information
 
 Title: Bike Sharing Demand
 
@@ -16,6 +16,8 @@ Scoring Metric: RMSLE
   2. If either predicted or the actual value is big: RMSE > RMSLE
   3. If both predicted and actual values are big: RMSE > RMSLE (RMSLE becomes almost negligible)
 
-Jupyter Notebook:
+MyBinder Jupyter Interactive Notebooks:
   - `00_DateNotebook.ipynb`: Provides an overview of the the finding/insights during the project.
+  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexguanga/bike-sharing-demand/master?filepath=00_DateNotebook.ipynb)
   - `01_DateNotebook.ipynb`: An All-In notebook that contains visualization, analysis, and modeling.
+  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexguanga/bike-sharing-demand/master?filepath=01_DateNotebook.ipynb)
